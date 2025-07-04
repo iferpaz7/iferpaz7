@@ -1,4 +1,11 @@
-# 👋 ¡Hola! Soy Ivan Fernando Paz Chamba
+# 👋 Hello! I'm Ivan Fernando Paz Chamba
+
+<div align="center">
+  
+  [![English](https://img.shields.io/badge/🇺🇸-English-blue?style=for-the-badge)](README.md)
+  [![Español](https://img.shields.io/badge/🇪🇸-Español-red?style=for-the-badge)](README.es.md)
+  
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Full-Stack+.NET+Developer;AWS+Cloud+Solutions+Architect;5%2B+Years+Experience;Microservices+%26+ERP+Specialist" alt="Typing SVG" />
@@ -15,39 +22,39 @@
 
 ---
 
-## 🚀 Sobre Mí
+## 🚀 About Me
 
-Soy un **Desarrollador Full-Stack .NET** con más de **5 años de experiencia** liderando ciclos completos de desarrollo web. Me especializo en crear arquitecturas escalables en AWS, desarrollar sistemas ERP para sectores financieros y educativos, y transformar sistemas legacy en soluciones modernas basadas en microservicios.
+I'm a **Full-Stack .NET Developer** with over **5 years of experience** leading complete web development cycles. I specialize in creating scalable architectures on AWS, developing ERP systems for financial and educational sectors, and transforming legacy systems into modern microservices-based solutions.
 
-📍 **Ubicación:** Santo Domingo, Ecuador  
-🎯 **Especialidad:** Arquitecturas escalables y microservicios  
-💼 **Empresa Actual:** Acontplus S.A.S  
-🎓 **Educación:** Lic. Ingeniería en Sistemas Computacionales  
-
----
-
-## 💡 Experiencia Destacada
-
-### 🏢 **Acontplus S.A.S** | *Desarrollador Full-Stack .NET* (2023 - Presente)
-- 🏗️ **Migración Cloud:** Transformación de sistemas legacy a microservicios en AWS
-- 🤖 **Worker Services:** Desarrollo de servicios automatizados para procesamiento SRI
-- 📧 **Comunicación Masiva:** Sistema de envío masivo con AWS SES (1K+ emails diarios)
-- 🏪 **ERP Corporativo:** Co-diseño de sistema integrado para 250+ empresas pymes
-- 🔐 **DevOps & Security:** Automatización CI/CD con Azure Pipelines y análisis continuo de vulnerabilidades
-
-### 📊 **SIPECOM S.A.** | *Desarrollador .NET Junior* (2022 - 2023)
-- 🎯 **API Especializada:** Desarrollo de API de impresión térmica para KFC
-- 📋 **Compliance Tributario:** Implementación de módulo ATS 2.0 para retenciones
-- 🔒 **Seguridad:** Remediación de vulnerabilidades OWASP en aplicaciones legacy
-
-### 🎓 **Corporación Adventista** | *Desarrollador Web* (2018 - 2022)
-- 🎯 **Sistema Académico Completo:** Desarrollo full-stack del SGA para ITSAE
-- 📚 **Módulos:** Admisiones, matrículas, notas, facturación SRI integrada
-- 📊 **Reportería:** Académica y financiera con Report Viewer
+📍 **Location:** Santo Domingo, Ecuador  
+🎯 **Specialty:** Scalable architectures and microservices  
+💼 **Current Company:** Acontplus S.A.S  
+🎓 **Education:** Bachelor's in Computer Systems Engineering  
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 💡 Featured Experience
+
+### 🏢 **Acontplus S.A.S** | *Full-Stack .NET Developer* (2023 - Present)
+- 🏗️ **Cloud Migration:** Transformation of legacy systems to AWS microservices
+- 🤖 **Worker Services:** Development of automated services for SRI processing
+- 📧 **Mass Communication:** Mass email system with AWS SES (1K+ daily emails)
+- 🏪 **Corporate ERP:** Co-design of integrated system for 250+ SME companies
+- 🔐 **DevOps & Security:** CI/CD automation with Azure Pipelines and continuous vulnerability analysis
+
+### 📊 **SIPECOM S.A.** | *Junior .NET Developer* (2022 - 2023)
+- 🎯 **Specialized API:** Development of thermal printing API for KFC
+- 📋 **Tax Compliance:** Implementation of ATS 2.0 module for withholdings
+- 🔒 **Security:** Remediation of OWASP vulnerabilities in legacy applications
+
+### 🎓 **Corporación Adventista** | *Web Developer* (2018 - 2022)
+- 🎯 **Complete Academic System:** Full-stack development of SGA for ITSAE
+- 📚 **Modules:** Admissions, enrollment, grades, integrated SRI billing
+- 📊 **Reporting:** Academic and financial with Report Viewer
+
+---
+
+## 🛠️ Technology Stack
 
 ### 🎯 **Backend**
 <div align="center">
@@ -80,14 +87,14 @@ Soy un **Desarrollador Full-Stack .NET** con más de **5 años de experiencia** 
   
 </div>
 
-### 🗄️ **Bases de Datos**
+### 🗄️ **Databases**
 <div align="center">
   
   ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
   
 </div>
 
-### 🔧 **Herramientas**
+### 🔧 **Tools**
 <div align="center">
   
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -116,69 +123,69 @@ Soy un **Desarrollador Full-Stack .NET** con más de **5 años de experiencia** 
 
 ---
 
-## 🎯 Proyectos Destacados
+## 🎯 Featured Projects
 
-### 🎓 **Sistema de Gestión Académica (SGA) - ITSAE**
-> **Tecnologías:** .NET Core + AngularJS + SQL Server  
-> **Período:** Marzo 2021 - Abril 2022
+### 🎓 **Academic Management System (SGA) - ITSAE**
+> **Technologies:** .NET Core + AngularJS + SQL Server  
+> **Period:** March 2021 - April 2022
 
-Sistema completo de administración académica con módulos de admisiones en línea, gestión de matrículas, control de notas y facturación SRI integrada.
+Complete academic administration system with online admissions modules, enrollment management, grade control, and integrated SRI billing.
 
-### 📚 **Librerías Corporativas Acontplus**
-> **Repositorios:** [Frontend](https://github.com/Acontplus-S-A-S/acontplus-libs) | [Backend](https://github.com/Acontplus-S-A-S/acontplus-dotnet-libs)
+### 📚 **Acontplus Corporate Libraries**
+> **Repositories:** [Frontend](https://github.com/Acontplus-S-A-S/acontplus-libs) | [Backend](https://github.com/Acontplus-S-A-S/acontplus-dotnet-libs)
 
-Librerías reutilizables para aceleración de desarrollo en proyectos empresariales, con componentes Angular y helpers .NET.
+Reusable libraries for accelerated development in enterprise projects, with Angular components and .NET helpers.
 
-### 🖨️ **API de Impresión Térmica - KFC**
-> **Tecnologías:** .NET Core 3.1 + API REST
+### 🖨️ **Thermal Printing API - KFC**
+> **Technologies:** .NET Core 3.1 + REST API
 
-API robusta para manejo de impresoras térmicas en puntos de venta con alta concurrencia.
+Robust API for handling thermal printers in point-of-sale systems with high concurrency.
 
 ---
 
-## 🏆 Logros Cuantificables
+## 🏆 Quantifiable Achievements
 
 <div align="center">
   
-  🏗️ **Migración Cloud** - Transformación de sistemas legacy a microservicios  
-  📧 **1K+ emails** procesados diariamente con AWS SES  
-  🏪 **250+ empresas** beneficiadas con ERP corporativo  
-  🔐 **Vulnerabilidades críticas** remediadas en sistemas legacy  
+  🏗️ **Cloud Migration** - Transformation of legacy systems to microservices  
+  📧 **1K+ emails** processed daily with AWS SES  
+  🏪 **250+ companies** benefited from corporate ERP  
+  🔐 **Critical vulnerabilities** remediated in legacy systems  
   
 </div>
 
 ---
 
-## 🎓 Educación & Certificaciones
+## 🎓 Education & Certifications
 
-🎓 **Lic. Ingeniería en Sistemas Computacionales** - UTEL Universidad (2021-2024)  
-🎓 **Tecnólogo en Informática** - Instituto Tecnológico Superior Adventista (2015-2018)  
+🎓 **Bachelor's in Computer Systems Engineering** - UTEL Universidad (2021-2024)  
+🎓 **Technology Degree in Computer Science** - Instituto Tecnológico Superior Adventista (2015-2018)  
 
-### 📜 Certificaciones
-- ☁️ **AWS Certified Cloud Practitioner** *(En progreso - Q4 2025)*
+### 📜 Certifications
+- ☁️ **AWS Certified Cloud Practitioner** *(In progress - Q4 2025)*
 - 🔧 **Introduction to Backend Development**
 - 🐧 **Linux Development Environment Configuration**
 - 🌐 **Complete ASP.NET MVC 5 Course**
 
 ---
 
-## 🌟 Competencias Profesionales
+## 🌟 Professional Skills
 
-- **🚀 Liderazgo Técnico:** Mentoría de equipos junior y arquitectura de soluciones
-- **🔗 Integración de Sistemas:** Especialista en SRI Ecuador y APIs de mensajería
-- **⚡ Metodologías Ágiles:** Scrum/Kanban con enfoque en entrega continua
-- **💬 Comunicación:** Interacción efectiva con stakeholders técnicos y de negocio
-
----
-
-## 🌍 Idiomas
-
-- 🇪🇸 **Español:** Nativo
-- 🇺🇸 **Inglés:** B1 Técnico (Progresando hacia B2)
+- **🚀 Technical Leadership:** Mentoring junior teams and solution architecture
+- **🔗 Systems Integration:** SRI Ecuador specialist and messaging APIs
+- **⚡ Agile Methodologies:** Scrum/Kanban with continuous delivery focus
+- **💬 Communication:** Effective interaction with technical and business stakeholders
 
 ---
 
-## 📈 Actividad Reciente
+## 🌍 Languages
+
+- 🇪🇸 **Spanish:** Native
+- 🇺🇸 **English:** B1 Technical (Progressing to B2)
+
+---
+
+## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -187,13 +194,13 @@ API robusta para manejo de impresoras térmicas en puntos de venta con alta conc
 
 <div align="center">
   
-  ### 💬 "La tecnología no es solo código, es la herramienta para crear soluciones que impactan positivamente en las empresas y sus procesos."
+  ### 💬 "Technology is not just code, it's the tool to create solutions that positively impact businesses and their processes."
   
   ---
   
-  ⭐ **¡No olvides dar estrella a los repositorios que te gusten!**
+  ⭐ **Don't forget to star the repositories you like!**
   
-  📫 **¿Quieres colaborar?** ¡Contáctame a través de cualquiera de mis redes sociales!
+  📫 **Want to collaborate?** Contact me through any of my social networks!
   
 </div>
 
